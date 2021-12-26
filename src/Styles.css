@@ -1,0 +1,17 @@
+.MuiInputBase-root .MuiInputBase-input {
+  padding-left: 8px;
+}
+.MuiFormControl-root .MuiFormHelperText-root {
+  color: black;
+}
+
+.MuiFormControl-root .MuiFormLabel-root {
+  color: black;
+}
+
+.MuiTableRow-root:hover {
+  background-color: #f5f5f5;
+}
+.MuiPaper-root.MuiDialog-paper.MuiDialog-paperScrollPaper.MuiDialog-paperWidthSm.MuiPaper-elevation24.MuiPaper-rounded {
+  overflow: hidden;
+}
